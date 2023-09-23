@@ -1,5 +1,3 @@
-# Text-Style-Transfet
-한국어를 다른 언어로 번역하고 스타일(색상, 글꼴, 패턴)을 그대로 적용 시키는 목적의 프로그램
 # **Text Translation and Font Style Editing in Video**
 ## 웹사이트 시연
 ### 영상 업로드 및 텍스트 자동 편집 시연 영상
