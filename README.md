@@ -1,7 +1,16 @@
-# **Text Translation and Font Style Editing in Video**
-## 웹사이트 시연
-### 영상 업로드 및 텍스트 자동 편집 시연 영상
-![영상 업로드 및 텍스트 자동 편집 시연 영상](https://github.com/Yu-Miri/Text_Translation_and_Font_Style_Editing_in_Video/assets/121469490/29dd0fda-a54d-4b43-87e3-477149e433b6)
+# **Text-Style-Trnasfer**
+## :speech_balloon: What is the Text-Style-Transfer?
+**Text-Style-Transfer**은 영상내에 존재하는 언어를 다른언어로 편집하는 과정에서 **글자의 폰트, 색상, 패턴, 스타일**을 최대한 유지하는것을 목표로한다
+
+기존의 이러한 작업은 **CG(Computer Graphics)** 작업을 통하여 진행하고 있다. 이는 비용, 시간적인 문제가 있으며 이를 해결한다면 한국문화 사업을 더욱 강화 할 수 있을 것이라 생각하였다.
+
+**Text-Style-Transfer**는 이 작업을 인공지능을 활용하여 특정 영역만 지정해주면 **자동으로 편집이 가능**하도록 해주는 프로그램이다. 
+
+## :star2:Main Feat
+- 자동 편집: **영상내 텍스트를 감지하여 자동**으로 한국어가 영어로 번역 -> 글자에 한국어가 가지고 있던 스타일도 같이 적용
+  
+- 수동 편집: **편집을 원하는 영역을 직접 지정**후 지정된 영역에 대해서만 한국어가 영어로 번역 -> 한국어가 가지고 있던 스타일도 같이 적용
+- 텍스트 제거: **번역이 아닌 글자만 제거하기를  원하는 경우** 영역을 지정하면 글자 배경의 이미지를 최대한 유지하면서 자연스러운 제거 가능
 
 ### 텍스트 재생성 시연 영상
 ![텍스트 재생성 시연 영상](https://github.com/Yu-Miri/Text_Translation_and_Font_Style_Editing_in_Video/assets/121469490/a6d8b751-9dda-4a4a-b92a-3f59e2ea3dda)
