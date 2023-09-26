@@ -7,16 +7,29 @@
 **Text-Style-Transfer**는 이 작업을 인공지능을 활용하여 특정 영역만 지정해주면 **자동으로 편집이 가능**하도록 해주는 프로그램이다. 
 
 ## :star2:Main Feat
-- 자동 편집: **영상내 텍스트를 감지하여 자동**으로 한국어가 영어로 번역 -> 글자에 한국어가 가지고 있던 스타일도 같이 적용https://github.com/gijun0725/Text-Style-Transfer/assets/119472512/cf19aec6-22ac-4e42-8e98-34c305824e21
+-  원본 영상: 영화 "베테랑"중 일부
+  [행사상품]
+
+    <img width="40%" src="https://github.com/gijun0725/Text-Style-Transfer/assets/119472512/ad91d1a4-1e5b-4878-8e6f-64f9312d9506"/>
+
+- 자동 편집: **영상내 텍스트를 감지하여 자동**으로 한국어가 영어로 번역 -> 글자에 한국어가 가지고 있던 스타일도 같이 적용
   
+  [행사상품 -> In event product]
+  
+  <img width="40%" src="https://github.com/gijun0725/Text-Style-Transfer/assets/119472512/211978c9-d4da-4c84-a74a-337c7bb7968d"/>
+
 - 수동 편집: **편집을 원하는 영역을 직접 지정**후 지정된 영역에 대해서만 한국어가 영어로 번역 -> 한국어가 가지고 있던 스타일도 같이 적용
+
+  [행사상품 -> product]
+  
+  <img width="40%" src="https://github.com/gijun0725/Text-Style-Transfer/assets/119472512/fee99d1c-eecd-453f-bc82-af16e8923774"/>
+  
 - 텍스트 제거: **번역이 아닌 글자만 제거하기를  원하는 경우** 영역을 지정하면 글자 배경의 이미지를 최대한 유지하면서 자연스러운 제거 가능
 
-### 텍스트 재생성 시연 영상
-![텍스트 재생성 시연 영상](https://github.com/Yu-Miri/Text_Translation_and_Font_Style_Editing_in_Video/assets/121469490/a6d8b751-9dda-4a4a-b92a-3f59e2ea3dda)
+  [행사상품 -> " "]
 
-### 텍스트 제거 시연 영상
-![텍스트 제거 시연 영상](https://github.com/Yu-Miri/Text_Translation_and_Font_Style_Editing_in_Video/assets/121469490/adf52282-4b23-4cf2-9d64-a44562368a0f)
+  <img width="40%" src="https://github.com/gijun0725/Text-Style-Transfer/assets/119472512/e1cc3761-0327-4248-9e27-7cab2eb69623"/>
+
 
 ### 편집 영상
 [원본 영상](https://youtu.be/X7MI3SjqPlc) : 영화 '베테랑' 한 장면
